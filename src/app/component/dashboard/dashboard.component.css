@@ -1,0 +1,23 @@
+.heading{
+    background-color: crimson;
+    color: white;
+}
+.text{
+    color: crimson;
+}
+.add{
+    border: 1px solid crimson;
+    color: crimson;
+}
+.add:hover{
+    background-color: crimson;
+    color: white;
+}
+.image{
+    width: 1em;
+    height: 1em;
+}
+.images{
+    width: 2em;
+    height: 2em;
+}
